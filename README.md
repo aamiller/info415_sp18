@@ -37,8 +37,8 @@ Grade breakdown:
 ## Week 1 - Overview
 - Tu - Introduction, overview, threat modeling
 - La - Tools setup, traffic capture
-- Th - Internet foundations, client-server communications, browser basics
-- HW - Browsing by hand
+- Th - Internet foundations
+- HW - None
 - Reading
 	- For HW
 		- https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
@@ -54,16 +54,28 @@ Grade breakdown:
 		- WAHH Chapter 3
 
 ## Week 2 - XSS
-- Tu - XSS introduction
-- La - Character encoding, unicode security, punycode domains
+- Tu - client-server communications, browser basics, HTTP
+- La - XSS introduction
+- HW - Browsing by hand
 - Th - XSS filter bypass techniques
 - HW - XSS challenges
 - Reading
-	- None
+	- Manual HTTP
+		- https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
+		- https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP
+		- https://developer.mozilla.org/en-US/docs/Web/HTTP/Session
+		- https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
+		- https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
+		- https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+		- https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+	- XSS
+		- https://excess-xss.com/
+		- WAHH Chapter 12
+		- WAHH Chapter 3
 
 ## Week 3 - XSS
 - Tu - Regular expressions (regex)
-- La - XSS practice
+- La - Character encoding, unicode security, punycode domains
 - Th - Advanced XSS payloads
 - HW - Advanced XSS payloads
 - Reading
