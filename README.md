@@ -54,11 +54,12 @@ Grade breakdown:
 		- WAHH Chapter 3
 
 ## Week 2 - XSS
-- Tu - client-server communications, browser basics, HTTP
+- Tu - Client-server communications, browser basics, HTTP
 - La - XSS introduction
-- HW - Browsing by hand
 - Th - XSS filter bypass techniques
-- HW - XSS challenges
+- HW 
+	- Browsing by hand
+	- XSS challenges
 - Reading
 	- Manual HTTP
 		- https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
