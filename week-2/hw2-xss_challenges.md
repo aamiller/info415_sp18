@@ -4,12 +4,13 @@ Homework challenges can be found at: http://xss.websecurity.church/
 ### Part 1 - Vulnerabilities - 25.5 points
 Each vulnerability will be worth 1.5 points. To earn 100% on this section you must complete all 17 challenges. 
 
-Each vulnerability must call "alert(document.domain)" via a payload entered through the website in order to demonstrate script execution. It is preferable that the injected JavaScript execute automatically when the page loads, but that may not be possible in all cases. Please try to make it automatic where you can. **Each answer must be in the form of a URL (link) that you could send to a victim to click on if possible.** One challenge cannot be triggered via a link. In that case supply the steps so I can re-create the attack.
+Each vulnerability must call "alert(document.domain)" (except challenge 15 - just use alert(0)) via a payload entered through the website in order to demonstrate script execution. It is preferable that the injected JavaScript execute automatically when the page loads, but that may not be possible in all cases. Please try to make it automatic where you can. **Each answer must be in the form of a URL (link) that you could send to a victim to click on if possible.** One challenge cannot be triggered via a link. In that case supply the steps so I can re-create the attack.
 
 Note: 
 - No importing external scripts or externally hosted files.
 - Only 5 onmouseover style payloads are necessary, if you have more than 5 payloads that utilize onmouseover then there is room for improvement.
 - If you have less than 5, let me know :)
+- For challenge 15 just use alert(0)
 
 ### Part 2 - The Report - 4.5 points
 - Description (.5 point)
