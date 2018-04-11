@@ -84,9 +84,9 @@ Grade breakdown:
 	- http://www.troyhunt.com/2013/05/clickjack-attack-hidden-threat-right-in.html
 
 ## Week 4 - CSRF & Clickjacking
-- Tu - Janice guest lecture + CSRF introduction
+- Tu - CSRF introduction
 - La - Tor
-- Th - Clickjacking
+- Th - Janice guest lecture + Clickjacking
 - HW - CSRF & Clickjacking challenges
 - Reading
 	- WAHH chapter 9
