@@ -85,7 +85,7 @@ Grade breakdown:
 
 ## Week 4 - CSRF & Clickjacking
 - Tu - CSRF introduction
-- La - Tor
+- La - Tor + go over HW1 and HW2
 - Th - Janice guest lecture + Clickjacking
 - HW - CSRF & Clickjacking challenges
 - Reading
