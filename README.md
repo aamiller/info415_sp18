@@ -93,16 +93,16 @@ Grade breakdown:
 
 ## Week 5 - SQLi
 - Tu - SQLi introduction
-- La - Social engineering
-- Th - SQL and SQLi practice
+- La - SQL and SQLi practice
+- Th - Advanced SQLi techniques
 - HW - SQLi challenges
 - Reading
 	- TBD
 
 ## Week 6 - SQLi
-- Tu - Janice guest lecture + Advanced SQLi techniques
-- La - HW review
-- Th - SQLi to full control
+- Tu - Janice guest lecture + SQLi to full control
+- La - Lockpicking
+- Th - Review for Midterm
 - HW - Study for Midterm
 - Reading
 	- WAHH chapter 6
@@ -117,18 +117,18 @@ Grade breakdown:
 	- None
 
 ## Week 8 - Authentication
-- Tu - Authentication 2.0, OAuth 1.0, and business logic attacks
-- La - Authentication 2.0, OAuth 1.0, and business logic attacks
-- Th - Blockchain technologies
-- HW - TBD
+- Tu - Blockchain technologies
+- La - Blockchain technologies
+- Th - Cryptozombies + blockchain technologies
+- HW - Ethereum contract exploitation
 - Reading
 	- TBD
 
 ## Week 9 - Crypto & Pentest
-- Tu - Blockchain technologies
-- La - Cryptozombies
-- Th - Web application pentest
-- HW - Web application pentest
+- Tu - Authentication 2.0, OAuth 1.0, and business logic attacks
+- La - Authentication 2.0, OAuth 1.0, and business logic attacks
+- Th - Web application practice pentest
+- HW - Web application practice pentest
 - Reading
 	- TBD
 
