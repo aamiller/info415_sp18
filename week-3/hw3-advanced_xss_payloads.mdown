@@ -33,7 +33,7 @@ The scenario is: you send a link to the admin via email, they click the link, yo
 The URLs for Part 1 through 4 should be in one file in .txt format (no Word Docs, PDFs, RTFs, or anything other than a .txt)!
 
 ### Due Date
-23:59 Tuesday April 20th 2018
+23:59 Friday April 20th 2018
 
 ### Note
 Please include links to any pages, guides, tutorials, people, or anything you used to help you figure out these challenges. Please do not cheat or trade answers! If you gently/fairly help one another out make sure to credit the people that helped you in your report. Give credit where credit is due.
