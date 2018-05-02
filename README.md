@@ -100,8 +100,8 @@ Grade breakdown:
 	- TBD
 
 ## Week 6 - SQLi
-- Tu - Janice guest lecture + SQLi to full control
-- La - Lockpicking
+- Tu - Janice guest lecture + advanced SQLi
+- La - SQLi to full control
 - Th - Review for Midterm
 - HW - Study for Midterm
 - Reading
@@ -110,7 +110,7 @@ Grade breakdown:
 
 ## Week 7 - Midterm
 - Tu - Midterm
-- La - Midterm
+- La - Lockpicking
 - Th - Cryptography
 - HW - None, enjoy the breather
 - Reading
