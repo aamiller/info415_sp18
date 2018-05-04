@@ -108,7 +108,7 @@ Grade breakdown:
 	- WAHH chapter 6
 	- WAHH chapter 7
 
-## Week 7 - Midterm
+## Week 7 - Midterm & Crypto
 - Tu - Midterm
 - La - Lockpicking
 - Th - Cryptography
@@ -116,7 +116,7 @@ Grade breakdown:
 - Reading
 	- None
 
-## Week 8 - Authentication
+## Week 8 - Blockchain
 - Tu - Blockchain technologies
 - La - Blockchain technologies
 - Th - Cryptozombies + blockchain technologies
@@ -124,7 +124,7 @@ Grade breakdown:
 - Reading
 	- TBD
 
-## Week 9 - Crypto & Pentest
+## Week 9 - Authentication & Pentest
 - Tu - Authentication 2.0, OAuth 1.0, and business logic attacks
 - La - Authentication 2.0, OAuth 1.0, and business logic attacks
 - Th - Web application practice pentest
