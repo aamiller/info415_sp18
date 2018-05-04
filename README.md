@@ -1,3 +1,4 @@
+
 ```
     _____   ____________     __ __ _________
    /  _/ | / / ____/ __ \   / // /<  / ____/
@@ -134,7 +135,7 @@ Grade breakdown:
 
 ## Week 10 - Review & Final
 - Tu - Review
-- La - Final
+- La - Review
 - Th - Final
 
 ## Final will be on the last day of class [2 hrs]
