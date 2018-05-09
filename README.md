@@ -134,8 +134,8 @@ Grade breakdown:
 	- TBD
 
 ## Week 10 - Review & Final
-- Tu - Review
-- La - Review
+- Tu - Review HWs
+- La - Review web app practice pentest HW
 - Th - Final
 
 ## Final will be on the last day of class [2 hrs]
