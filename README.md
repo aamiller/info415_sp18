@@ -118,18 +118,18 @@ Grade breakdown:
 	- None
 
 ## Week 8 - Blockchain
-- Tu - Blockchain technologies
-- La - Blockchain technologies
-- Th - Cryptozombies + blockchain technologies
-- HW - Ethereum contract exploitation
-- Reading
-	- TBD
-
-## Week 9 - Authentication & Pentest
 - Tu - Authentication 2.0, OAuth 1.0, and business logic attacks
 - La - Authentication 2.0, OAuth 1.0, and business logic attacks
 - Th - Web application practice pentest
 - HW - Web application practice pentest
+- Reading
+	- TBD
+
+## Week 9 - Authentication & Pentest
+- Tu - Blockchain technologies
+- La - Blockchain technologies
+- Th - Cryptozombies + blockchain technologies
+- HW - Ethereum contract exploitation
 - Reading
 	- TBD
 
