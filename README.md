@@ -117,7 +117,7 @@ Grade breakdown:
 - Reading
 	- None
 
-## Week 8 - Blockchain
+## Week 8 - Authentication & Pentest
 - Tu - Authentication 2.0, OAuth 1.0, and business logic attacks
 - La - Authentication 2.0, OAuth 1.0, and business logic attacks
 - Th - Web application practice pentest
@@ -125,7 +125,7 @@ Grade breakdown:
 - Reading
 	- TBD
 
-## Week 9 - Authentication & Pentest
+## Week 9 - Blockchain
 - Tu - Blockchain technologies
 - La - Blockchain technologies
 - Th - Cryptozombies + blockchain technologies
