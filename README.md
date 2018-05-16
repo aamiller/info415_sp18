@@ -120,10 +120,10 @@ Grade breakdown:
 ## Week 8 - Authentication & Pentest
 - Tu - Authentication 2.0, OAuth 1.0, and business logic attacks
 - La - Authentication 2.0, OAuth 1.0, and business logic attacks
-- Th - Web application practice pentest
+- Th - HW review and web application practice pentest
 - HW - Web application practice pentest
 - Reading
-	- TBD
+	- None
 
 ## Week 9 - Blockchain
 - Tu - Blockchain technologies
